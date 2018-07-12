@@ -1,4 +1,6 @@
 
-The first learn git 
+The first time to learn git 
 
-study very hard  
+study very hard  hard
+
+hello  man
